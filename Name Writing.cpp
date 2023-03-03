@@ -2,7 +2,7 @@
  * NameWriting.cpp
  *
  *  Created on: 25-Sep-2021
- *      Author: HP
+ *      Author: JYOTIL KATHIRIYA
  */
 
 #include<iostream>
