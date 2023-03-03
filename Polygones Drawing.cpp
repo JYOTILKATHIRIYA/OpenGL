@@ -2,7 +2,7 @@
  * PolyGoneDrawing.cpp
  *
  *  Created on: 23-Sep-2021
- *      Author: HP
+ *      Author: JYOTIL KATHIRIYA
  */
 
 #include<iostream>
