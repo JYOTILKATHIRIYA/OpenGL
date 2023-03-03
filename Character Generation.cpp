@@ -2,7 +2,7 @@
  * writing.cpp
  *
  *  Created on: 02-Oct-2021
- *      Author: HP
+ *      Author: JYOTIL KATHIRIYA
  */
 
 #include<iostream>
